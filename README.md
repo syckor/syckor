@@ -24,6 +24,7 @@
 
 
 ##  work
+#### 2023.05 ~          : Working as backend engineer in HT
 #### 2020.10 ~ 2022.10  : Working as an RPA(Robotic Process Automation) developer in HyperInfo
 </div>
 
